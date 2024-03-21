@@ -12,6 +12,7 @@
   <h4>Atualmente estudando</h4>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,c#,php,java" style="width: 20%;" />
+    <a href =https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=whe>
   </a>
 
  
