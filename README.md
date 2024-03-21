@@ -7,7 +7,11 @@
   <h4>Tecnologias e Ferramentas</h4>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,c" style="width: 20%;" />
-
+  </a>
+  ##
+  <h4>Atualmente estudando</h4>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,c#,php,java" style="width: 20%;" />
   </a>
 
  
