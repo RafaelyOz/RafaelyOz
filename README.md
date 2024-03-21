@@ -2,10 +2,11 @@
 
   ### Olá sou a Rafaely
 -🌱 Atualmente estudando Javascript
-
-
+  ##
+  
+  ###Tecnologias e Ferramentas
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,c" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,c" />
   </a>
 
  
