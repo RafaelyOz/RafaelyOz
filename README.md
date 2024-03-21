@@ -4,7 +4,7 @@
 -🌱 Atualmente estudando Javascript
   ##
   
-  ###Tecnologias e Ferramentas
+  <h1>Tecnologias e Ferramentas</h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,c" />
   </a>
