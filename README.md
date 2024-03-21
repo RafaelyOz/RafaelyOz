@@ -5,7 +5,9 @@
   ##
   
   <h4>Tecnologias e Ferramentas</h4>
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+   <a href="https://skillicons.dev">
+    < witdh=50% img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 
  
  ##
