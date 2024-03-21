@@ -4,10 +4,8 @@
 -🌱 Atualmente estudando Javascript
   ##
   
-  <h1>Tecnologias e Ferramentas</h1>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,c" />
-  </a>
+  <h4>Tecnologias e Ferramentas</h4>
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
  
  ##
