@@ -3,11 +3,11 @@
   ### Olá sou a Rafaely
 -🌱 Atualmente estudando Javascript
 
- <p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,c" />
   </a>
-</p>
+
  
  ##
   <div>
