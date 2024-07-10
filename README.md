@@ -6,7 +6,7 @@
   
   <h4>Tecnologias e Ferramentas</h4>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,c,cs,php,java" style="width: 20%;" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,c,cs,php,java,mysql,xampp" style="width: 30%;" />
    </a>
 
  
