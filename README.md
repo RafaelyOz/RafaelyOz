@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44F35B&height=120&section=header"/>
 
   ### <h2>Olá sou a Rafaely</h2>
--🌱 Atualmente estudando Java, PHP e C#
+-🌱 Atualmente estudando Python e Kotlin
   ##
   
   <h4>Tecnologias e Ferramentas</h4>
